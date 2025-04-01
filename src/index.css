@@ -48,7 +48,8 @@
   }
 
   body {
-    @apply bg-background text-foreground font-[Noto\ Sans\ JP] text-base leading-[1.5];
+    @apply bg-background text-foreground text-base leading-[1.5];
+    font-family: 'Noto Sans JP', sans-serif;
   }
 }
 
